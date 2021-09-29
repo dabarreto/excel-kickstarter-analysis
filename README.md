@@ -22,7 +22,7 @@ Deliverable 1 Requirements:
 ![Theater_Outcomes_vs_Launch](https://github.com/dabarreto/excel-kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-See Excel file Kickstarter_Challenge.xlsx.
+See Excel file [Kickstarter_Challenge.xlsx.](https://github.com/dabarreto/excel-kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx.xlsx)
 
 Deliverable 2 Requirements:
 * A new sheet is created with eight columns and twelve rows, according to the instructions (3 pt).
@@ -30,9 +30,10 @@ Deliverable 2 Requirements:
 * The SUM() function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column (3 pt).
 * The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns (3 pt).
 * A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).
+![Outcomes_vs_Goals](https://github.com/dabarreto/excel-kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+No challenges nor difficuties were encountered while working with the data.
 
 ## Results
 
