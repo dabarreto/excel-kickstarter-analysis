@@ -18,7 +18,7 @@ Deliverable 1 Requirements:
 * The columns, rows, and values in the pivot table fields are correctly populated (10 pt).
 * The "Parent Category" is filtered on "theater" (5 pt).
 * The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order (5 pt).
-*  A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).
+*  A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).\
 ![Theater_Outcomes_vs_Launch](https://github.com/dabarreto/excel-kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -29,7 +29,7 @@ Deliverable 2 Requirements:
 * The COUNTIFS() function is used to populate the "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges in Step 3, and the Subcategory "plays" (15 pt).
 * The SUM() function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column (3 pt).
 * The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns (3 pt).
-* A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).
+* A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).\
 ![Outcomes_vs_Goals](https://github.com/dabarreto/excel-kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
