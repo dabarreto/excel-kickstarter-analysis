@@ -1,15 +1,26 @@
-# kickstarter-analysis
-## Performing analysis in Excel on Kickstarter data to uncover trends.
+# Kickstarting with Excel
 
+## Overview of Project
 
-In this repository you will find the following material:
-* data-1-1-3-StarterBook file: 
-Excel working file that contains exercises of practice from the lessons in canvas.
-* Challenge Deliverables:\
-Deliverable 1: Outcomes Based on Launch Date Chart\
-Deliverable 2: Outcomes Based on Goals Chart\
-Deliverable 3: A written analysis of the results (README.md)
+### Purpose: Performing analysis in Excel on Kickstarter data to uncover trends.
 
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
 
 
 Created by: Ana Daniela Barreto Rodriguez.\
