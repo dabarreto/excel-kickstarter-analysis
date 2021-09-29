@@ -9,7 +9,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-See Excel file Kickstarter_Challenge.xlsx.
+See Excel file [Kickstarter_Challenge.xlsx.](main/Kickstarter_Challenge.xlsx.xlsx)
 
 Deliverable 1 Requirements:
 * A "Years" column is created based on the "Date Created Conversion" column in the Kickstarter spreadsheet (10 pt): See Tab "Kickstarter", column U "Year Created".
@@ -19,7 +19,7 @@ Deliverable 1 Requirements:
 * The "Parent Category" is filtered on "theater" (5 pt).
 * The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order (5 pt).
 *  A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).
-
+![Theater_Outcomes_vs_Launch](main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 See Excel file Kickstarter_Challenge.xlsx.
