@@ -22,8 +22,17 @@ Deliverable 1 Requirements:
 
 
 ### Analysis of Outcomes Based on Goals
+See Excel file Kickstarter_Challenge.xlsx.
+
+Deliverable 2 Requirements:
+* A new sheet is created with eight columns and twelve rows, according to the instructions (3 pt).
+* The COUNTIFS() function is used to populate the "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges in Step 3, and the Subcategory "plays" (15 pt).
+* The SUM() function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column (3 pt).
+* The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns (3 pt).
+* A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).
 
 ### Challenges and Difficulties Encountered
+If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 ## Results
 
