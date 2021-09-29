@@ -9,9 +9,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-See Tab "Theater Outcomes by Launch Date" in Excel file Kickstarter_Challenge.xlsx.\
+See Excel file Kickstarter_Challenge.xlsx.
 
-Deliverable 1 Requirements:\
+Deliverable 1 Requirements:
 * A "Years" column is created based on the "Date Created Conversion" column in the Kickstarter spreadsheet (10 pt): See Tab "Kickstarter", column U "Year Created".
 * A pivot table is created in a new worksheet labeled "Theater Outcomes by Launch Date" (5 pt): See Tab "Theater Outcomes by Launch Date" .
 * The pivot table filters on "Parent Category" and "Years" (10 pt).
